@@ -1,0 +1,68 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    padding: 4%;
+    background-color: red;
+    margin: 0%;
+}
+
+.order-food{
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.chocolate{
+    color: purple;
+}
+
+.half-width{
+    width: 50%;
+    padding: 2%;
+}
+
+.half-width img{
+    width: 100%;
+}
+.text-dec{
+    text-decoration: none;
+    background-image: linear-gradient(purple,yellow,orange,red);
+    color: white;
+    padding: 10px 40px;
+    border-radius: 50px;
+    font-weight: 800;
+}
+#back-img{
+    background-image: url(images/full-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box-shadow{
+    box-shadow: 10px 10px 40px yellow;
+    width: 40%%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.my-recipie{
+    text-align: center;
+    background-image: linear-gradient(purple,yellow);
+    border-radius: 50px;
+}
+.owner{
+    text-align: center;
+    background-image: linear-gradient(purple,yellow,blue);
+    color: white;
+    border-radius: 20%;
+    background-size: cover;
+}
+#header{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-weight: 800;
+}
+.fifty{
+    font-size: 35px;
+    font-weight: 700;
+}
+.inline{
+    display: inline;
+}
